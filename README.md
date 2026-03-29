@@ -21,7 +21,7 @@ It has the same function as *Other/Open Luau code editor*.
 ##### Upload to Mod.io on map export
 With this ticked, the Uploader tab will automatically be run after you export a map.
 **You must set up the Uploader window to use this!**
-###### Ask before uploading
+##### Ask before uploading
 This option requires the previous one to be enabled to actually do anything.
 If ticked, a popup will appear after exporting a map, asking if you wish to upload it or not.
 
